@@ -1,0 +1,16 @@
+body {
+  background: #c9b9ab;
+  letter-spacing: 0.2rem;
+  font-size: 0.8rem;
+}
+.container {
+  max-width: 450px;
+}
+.icon {
+  border-radius: 50%;
+  position: relative;
+  bottom: 2rem;
+  z-index: 1;
+  color: white;
+  background-color: white;
+}
